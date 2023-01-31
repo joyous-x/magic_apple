@@ -2,12 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:MaMultiPlatPackage">
+      location = "group:DemoForIos/DemoForIos.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:MaMultiPlatFramework/MaMultiPlatFramework.xcodeproj">
+      location = "group:MaCommonPackage">
    </FileRef>
    <FileRef
-      location = "group:MultiPlatDemo/MultiPlatDemo.xcodeproj">
+      location = "group:MaCommonFramework/MaCommonFramework.xcodeproj">
    </FileRef>
 </Workspace>
